@@ -1,4 +1,4 @@
-use crate::Solution;
+struct Solution;
 
 impl Solution {
     /// You are given a sorted unique integer array nums.
